@@ -1,0 +1,8 @@
+<suite name="GoRest">
+	<test name="GoRest API Testing">
+		<classes>
+			<class name="APITests.BaseTest"/>
+			<class name="APITests.UsersAPITest"/>			
+		</classes>
+	</test>
+</suite>
